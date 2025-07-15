@@ -14,7 +14,7 @@ This project demonstrates the front-end integration of an AI Trip Planner Chatbo
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML/CSS + chatbot UI(customizable for Holiday Extras’ branding)
 - **Chatbot Integration**: [OpenAI GPT API / Dialogflow / Custom model – adjust based on what you used]
 - **Tools**: VS Code, Git, GitHub
 
@@ -31,7 +31,7 @@ This project demonstrates the front-end integration of an AI Trip Planner Chatbo
 
 ## 📸 Screenshots
 
-(Add 1-2 screenshots or a short demo GIF of the chatbot in action.)
+[Chatbot in action](https://youtu.be/dWdM42Air3Y)
 
 ---
 
