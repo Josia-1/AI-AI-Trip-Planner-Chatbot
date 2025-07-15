@@ -30,7 +30,8 @@ This project demonstrates the front-end integration of an AI Trip Planner Chatbo
 ---
 
 ## 📸 Screenshots
-![Alt text](https://imgur.com/WUV8Ljp)
+![Chatbot Demo](https://imgur.com/WUV8Ljp)
+
 
 
 [Chatbot in action](https://youtu.be/dWdM42Air3Y)
